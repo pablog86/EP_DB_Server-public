@@ -30,22 +30,6 @@ The Network Endpoint Snapshot Viewer is a powerful tool designed to help network
 
 ## Getting Started
 
-### Basic Installation
-
-To run this application locally, follow these steps:
-
-1. Clone the GitHub repository:
-``````
-git clone https://github.com/pablog86/EP_DB_Server
-``````
-2. Change into the project directory:
-``````
-cd your-repo
-``````
-3. Install the required dependencies:
-``````
-pip install -r requirements.txt
-``````
 ### Running the Application locally
 
 Once the dependencies are installed, you can run the application using the following command:
