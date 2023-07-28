@@ -21,7 +21,6 @@ Welcome to the Network Endpoint Snapshot Viewer, a web application built using S
   - [Compare Endpoints](#compare-endpoints)
   - [Upload Endpoint Logs](#upload-endpoint-logs)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
