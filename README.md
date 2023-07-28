@@ -188,7 +188,7 @@ The application starts with an authentication prompt to ensure only authorized u
 
 ## Contributing Articles and Repositories: Interesting and Insightful Articles to Check Out
 
-* Streamli documentation https://docs.streamlit.io/library/api-reference
+* Streamlit documentation https://docs.streamlit.io/library/api-reference
 * Pandas documentation https://pandas.pydata.org/docs/reference/index.html#api
 * Powerfull example with Traefik and FastAPI/Streamlit/Panel https://github.com/tiangolo/blog-posts/tree/master/deploying-fastapi-apps-with-https-powered-by-traefik
 * Auto filters for pandas dataframe in streamlit https://github.com/wjbmattingly/streamlit-pandas
