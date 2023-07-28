@@ -186,11 +186,6 @@ The application starts with an authentication prompt to ensure only authorized u
 </p>
 
 
-
-## Contributing
-
-We welcome contributions from the community to enhance the functionality and usability of the Network Endpoint Snapshot Viewer. If you find a bug or have an idea for an improvement, please open an issue.
-
 ## Contributing Articles and Repositories: Interesting and Insightful Articles to Check Out
 
 * Streamli documentation https://docs.streamlit.io/library/api-reference
