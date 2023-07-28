@@ -8,7 +8,6 @@ Welcome to the Network Endpoint Snapshot Viewer, a web application built using S
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-  - [Installation](#installation)
   - [Running the Application](#running-the-application)
 - [Main Features](#main-features)
   - [Authentication](#authentication)
