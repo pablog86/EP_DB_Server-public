@@ -57,9 +57,7 @@ docker-compose -f docker-compose.yml up -d
 ``````
 docker-compose -f docker-compose.traefik.yml up -d
 ``````
-> **Note_1:**  Maybe you will need to manually deploy the MAC OUI database DB: **mac_oui**, Collection: **mac_oui**.
-
-> **Note_2:**  You can run the Streamlit application without traefik by runing "docker-compose up -d" this will use the docker-compose.override.yml to export the ports of streamlit and mongodb.
+> **Note:**  You can run the Streamlit application without traefik by runing "docker-compose up -d" this will use the docker-compose.override.yml to export the ports of streamlit and mongodb.
 
 ## Main Features
 
