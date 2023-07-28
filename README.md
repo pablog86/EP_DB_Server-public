@@ -108,30 +108,6 @@ The application starts with an authentication prompt to ensure only authorized u
       <img src=captures/L2_detail-1.png />
     </p>
 
-    Information per endpoint:
-    - mac.dot
-    - MAC
-	- device
-    - vendor
-    - epgdn         (ACI)
-	- epg_encap     (ACI)
-	- pctag         (ACI)
-    - bd            (ACI)
-	- bd_encap      (ACI)
-	- local_vlan    (ACI)
-	- port
-	- vlan
-	- description
-	- Po members    (if port is Po)
-	- policy group  (ACI)
-	- prot
-	- vpc
-	- lldp.name     (Neighbor info if enable)
-	- cdp.name      (Neighbor info if enable)
-	- controller    (ACI with VMM)
-	- hostingServer (ACI with VMM)
-	- vm.name       (ACI with VMM)
-
 *   ### L3 Detailed Information
 
     Similar to the L2 Detailed Information page, this section offers a detailed dataframe with L3 endpoint information. Users can explore devices and their corresponding L3 interfaces.
@@ -139,17 +115,6 @@ The application starts with an authentication prompt to ensure only authorized u
     <p align="center">
       <img src=captures/L3_detail.png />
     </p>
-
-    Information per endpoint:
-    - mac.dot
-    - MAC
-	- device
-    - vendor
-    - ip.0   
-    - vrf
-	- bd        (ACI)
-	- interface
-	- scope     (ACI)
 
 *   ### Endpoint Search
 
